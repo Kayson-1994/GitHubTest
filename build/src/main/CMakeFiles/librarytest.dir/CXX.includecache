@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ts/CLionProjects/createLibrary/include/Person.h
+iostream
+-
+string
+-
+
+/home/ts/CLionProjects/createLibrary/src/main/main.cpp
+iostream
+-
+../../include/Person.h
+/home/ts/CLionProjects/createLibrary/include/Person.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/librarytest.dir/main.cpp.o  -o ../../../bin/librarytest -Wl,-rpath,/home/ts/CLionProjects/createLibrary/lib ../../../lib/libperson.so.1.0 

@@ -1,0 +1,2 @@
+C:\Users\kaishen\Documents\mingw64\bin\ar.exe qc ..\..\..\lib\libperson.a  CMakeFiles/person_static.dir/Person.cpp.obj
+C:\Users\kaishen\Documents\mingw64\bin\ranlib.exe ..\..\..\lib\libperson.a

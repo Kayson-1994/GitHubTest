@@ -1,0 +1,11 @@
+/home/ts/CLionProjects/createLibrary/build/CMakeFiles/rebuild_cache.dir
+/home/ts/CLionProjects/createLibrary/build/CMakeFiles/edit_cache.dir
+/home/ts/CLionProjects/createLibrary/build/src/CMakeFiles/rebuild_cache.dir
+/home/ts/CLionProjects/createLibrary/build/src/CMakeFiles/edit_cache.dir
+/home/ts/CLionProjects/createLibrary/build/src/main/CMakeFiles/rebuild_cache.dir
+/home/ts/CLionProjects/createLibrary/build/src/main/CMakeFiles/edit_cache.dir
+/home/ts/CLionProjects/createLibrary/build/src/main/CMakeFiles/librarytest.dir
+/home/ts/CLionProjects/createLibrary/build/src/person/CMakeFiles/rebuild_cache.dir
+/home/ts/CLionProjects/createLibrary/build/src/person/CMakeFiles/edit_cache.dir
+/home/ts/CLionProjects/createLibrary/build/src/person/CMakeFiles/person_static.dir
+/home/ts/CLionProjects/createLibrary/build/src/person/CMakeFiles/person.dir

@@ -1,0 +1,11 @@
+D:/CLionProjects/createLibrary/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/createLibrary/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/CLionProjects/createLibrary/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+D:/CLionProjects/createLibrary/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+D:/CLionProjects/createLibrary/cmake-build-debug/src/main/CMakeFiles/librarytest.dir
+D:/CLionProjects/createLibrary/cmake-build-debug/src/main/CMakeFiles/edit_cache.dir
+D:/CLionProjects/createLibrary/cmake-build-debug/src/main/CMakeFiles/rebuild_cache.dir
+D:/CLionProjects/createLibrary/cmake-build-debug/src/person/CMakeFiles/edit_cache.dir
+D:/CLionProjects/createLibrary/cmake-build-debug/src/person/CMakeFiles/person.dir
+D:/CLionProjects/createLibrary/cmake-build-debug/src/person/CMakeFiles/person_static.dir
+D:/CLionProjects/createLibrary/cmake-build-debug/src/person/CMakeFiles/rebuild_cache.dir
